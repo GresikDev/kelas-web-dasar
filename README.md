@@ -8,5 +8,7 @@
 * [Pertemuan minggu kelima](minggu5.md).
 
 ## Materi
+* [Pengenalan HTML](materi/pengenalan-html.md).
+* [Pengenalan CSS](materi/pengenalan-css.md).
 * [Cara install Yii2](materi/install-yii2.md).
 * [Membuat akun github](materi/membuat-akun-github.md).
